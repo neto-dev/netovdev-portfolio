@@ -1,0 +1,26 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "about": "Sobre mí",
+    "experience": "Experiencia",
+    "blog": "Blog",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "title": "Ernesto Valenzuela",
+    "subtitle": "Software Engineering Lead",
+    "greeting": "Hola, soy Ernesto. Prefiero que me llamen Neto.",
+    "description": "Liderando equipos multidisciplinarios y orquestando soluciones tecnológicas de alto impacto por más de 11 años."
+  },
+  "about": {
+    "title": "Sobre Mí",
+    "p1": "Soy una persona multidisciplinaria. La mayor parte de mi tiempo lo paso gestionando equipos, interactuando con clientes, dirigiendo proyectos, desarrollando y disfrutando de mi familia.",
+    "p2": "No me gusta definirme por el trabajo que he realizado. Me defino por las metas que quiero alcanzar. Las habilidades se pueden aprender en cualquier momento, la personalidad es inherente. Prefiero seguir aprendiendo, seguir desafiándome y hacer cosas interesantes que importen y que realmente agreguen valor a la sociedad y a mi familia."
+  },
+  "experience": {
+    "title": "Trayectoria Profesional",
+    "projects": "Proyectos",
+    "company": "Empresa",
+    "role": "Rol"
+  }
+}

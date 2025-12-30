@@ -1,0 +1,26 @@
+{
+    "nav": {
+        "home": "Home",
+        "about": "About",
+        "experience": "Experience",
+        "blog": "Blog",
+        "contact": "Contact"
+    },
+    "hero": {
+        "title": "Ernesto Valenzuela",
+        "subtitle": "Software Engineering Lead",
+        "greeting": "Hi, I'm Ernesto. I prefer to be called Neto.",
+        "description": "Leading multidisciplinary teams and orchestrating high-impact technological solutions for over 11 years."
+    },
+    "about": {
+        "title": "About Me",
+        "p1": "I am a multidisciplinary person. Most of my time is spent managing teams, interacting with clients, managing projects, developing, and enjoying my family.",
+        "p2": "I don't like to define myself by the work I have done. I define myself by the goals I want to achieve. Skills can be learned at any time, personality is inherent. I prefer to keep learning, keep challenging myself and do interesting things that matter that really add value to society and my family."
+    },
+    "experience": {
+        "title": "Professional Path",
+        "projects": "Projects",
+        "company": "Company",
+        "role": "Role"
+    }
+}
